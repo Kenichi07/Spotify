@@ -1,3 +1,8 @@
+body {
+    background-color: #000000;
+    font-family: var(--font-dm-sans);
+}
+
 .sidebar {
     position: fixed;
     top: 0;
@@ -65,7 +70,6 @@
     border: 0px;
     font-size: 14px;
     font-weight: 700;
-    font-family: "DM Sans", sans-serif;
     text-align: center;
     text-decoration: none;
     text-transform: none;
@@ -105,7 +109,6 @@
 .section-playlist_content .text {
     padding-bottom: 14px;
     color: #ffffff;
-    font-family: "DM Sans", sans-serif;
 }
 
 .section-playlist_content .title {
@@ -125,7 +128,6 @@
     border-radius: 20px;
     font-size: 12px;
     font-weight: 700;
-    font-family: "DM Sans", sans-serif;
     text-decoration: none;
     text-transform: none;
     padding: 10px;
@@ -156,7 +158,6 @@
 .section-podcast_content .text {
     padding-bottom: 14px;
     color: #ffffff;
-    font-family: "DM Sans", sans-serif;
 }
 
 .section-podcast_content .title {
@@ -176,7 +177,6 @@
     border-radius: 20px;
     font-size: 12px;
     font-weight: 700;
-    font-family: "DM Sans", sans-serif;
     text-decoration: none;
     text-transform: none;
     padding: 10px;
